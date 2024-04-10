@@ -1,6 +1,6 @@
 # Nav Bar Hover Effect
 
-🎨 This repository contains code for a simple web page with a navigation bar hover effect. When you hover over each navigation item, it dynamically loads content from a URL and displays it on the page. The code is written in HTML, CSS, and JavaScript.
+This repository contains code for a simple web page with a navigation bar hover effect. When you hover over each navigation item, it dynamically loads content from a URL and displays it on the page. The code is written in HTML, CSS, and JavaScript.
 
 ## Usage
 1. Clone this repository to your local machine.
